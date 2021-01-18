@@ -1,0 +1,14 @@
+intranet
+local
+status
+staging
+locally
+localhost
+internal
+internally
+uat
+beta
+admin
+m
+old
+alpha
