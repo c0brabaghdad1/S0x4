@@ -1,5 +1,11 @@
 # S0x4 - Same Site Scripting Scanner 
 
+## About S0x4
+**S0x4 take list keyword of subdomains and domain and give you the IPv4 for each** 
+
+**You can using Bash Script or Perl (It's your choice)**
+
+
 **Perl - Sample Scan ( _./s0x4.pl -h target.tld -l list.txt_ )**
 ![PL](https://github.com/c0brabaghdad1/S0x4/blob/master/images/Perl.png)
 
