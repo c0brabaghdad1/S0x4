@@ -16,4 +16,5 @@
 * **Bash Script** ( chmod +x s0x4.sh )
 
 
- ##### I am biased towards Perl :wink: :imp:
+##### I am biased towards Perl :wink: :imp:
+##### Until the time of creation of this tool i'm not found any tools for scan this vulnerability so this tool uniq
